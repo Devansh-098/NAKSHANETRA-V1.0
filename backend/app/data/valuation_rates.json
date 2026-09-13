@@ -1,0 +1,12 @@
+{
+  "_note": "DEMO / SAMPLE indicative rates in INR per sq.ft. NOT official government circle rates.",
+  "dehradun": {
+    "default_rate": 2500,
+    "areas": {
+      "rajpur road": 2500,
+      "prem nagar": 2200,
+      "sahastradhara road": 3000,
+      "clement town": 2100
+    }
+  }
+}
